@@ -3,19 +3,18 @@ I’m a Spatial Data Engineer & Analyst exploring the world through data and map
 Currently building **[Yaspi](https://yaspi.tech)**, a startup focused on geospatial intelligence.
 
 ---
-
-### 🌱 What I’m working on
-- Building tools and workflows for **spatial data analysis**  
-- Learning more about **data pipelines** and **workflow automation** (Python → maybe Airflow soon)  
-- Developing projects that combine **GIS, Python, SQL, and JavaScript**
-
----
-
-### 🛠️ Tools & Skills
+### 🛠️ Strong languages
 - **Languages:** Python, SQL, JavaScript  
 - **GIS & Spatial Analysis:** QGIS, PostGIS, ArcGIS, spatial data visualisation  
 - **Data Science:** pandas, geopandas, matplotlib, seaborn, scikit-learn  
 - **Other:** Soon exploring workflow orchestration (Apache Airflow)
+
+---
+
+### 🌱 Currently working on
+- Building tools and workflows for **spatial data analysis**  
+- Learning more about **data pipelines** and **workflow automation** (Python → maybe Airflow soon)  
+- Developing projects that combine **GIS, Python, SQL, and JavaScript**
 
 ---
 
