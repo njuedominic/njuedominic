@@ -3,7 +3,7 @@ I’m a Spatial Data Engineer & Analyst exploring the world through data and map
 Currently building **[Yaspi](https://yaspi.tech)**, a startup focused on geospatial intelligence.
 
 ---
-### 🛠️ Strong languages
+### 🛠️ Languages
 - **Languages:** Python, SQL, JavaScript  
 - **GIS & Spatial Analysis:** QGIS, PostGIS, ArcGIS, spatial data visualisation  
 - **Data Science:** pandas, geopandas, matplotlib, seaborn, scikit-learn  
