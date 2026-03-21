@@ -1,4 +1,5 @@
 ### Hi, I’m Dominic 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?logo=linkedin)](https://www.linkedin.com/in/dominic-njue/)
 I’m a Spatial Data Engineer & Analyst exploring the world through data and maps.  
 Currently building **[Yaspi](https://yaspi.tech)**, a startup focused on geospatial intelligence.
 
